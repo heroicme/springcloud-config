@@ -1,2 +1,2 @@
 # springcloud-config
-111
+sprinfcloud-cofig  配置中心
